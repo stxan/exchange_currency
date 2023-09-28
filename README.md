@@ -3,7 +3,8 @@
 по REST-API
 
 По запросу 
-```GET /api/rates?from=USD&to=RUB&value=1```Вернуть 
+```GET /api/rates?from=USD&to=RUB&value=1```
+Необходимо вернуть json-файл с текущим курсом: 
 
 ```bash
 {
